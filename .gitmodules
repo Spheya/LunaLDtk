@@ -1,0 +1,6 @@
+[submodule "example/external/Luna"]
+	path = external/Luna
+	url = https://github.com/Spheya/Luna.git
+[submodule "example/external/LDtkLoader"]
+	path = external/LDtkLoader
+	url = https://github.com/Madour/LDtkLoader.git
